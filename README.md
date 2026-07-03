@@ -1,50 +1,77 @@
 # Hi there, I'm Elif 👋
 
-Welcome to my GitHub profile!
+```javascript
+const elif = {
+  location: "Belgium 🇧🇪",
+  education: "BSc in Data Science, Protection & Security",
+  interests: [
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Data Science",
+    "Web Development",
+    "Open Source"
+  ],
+  motto: "Always learning, always building."
+}
+```
 
-I'm a passionate developer who enjoys building software, learning new technologies, and solving real-world problems through code. I love exploring different programming languages, contributing to open-source projects, and continuously improving my skills.
+## 👩‍💻 About Me
 
-## 🚀 About Me
+I'm a Data Science, Protection & Security student passionate about building technology that is both useful and secure.
 
-* 💻 Software Developer
-* 🌱 Currently learning **[data science protection & security]**
-* 🤝 Open to collaboration on interesting open-source projects
-* 💬 Ask me about **Web Development, APIs, JavaScript, Python, or anything tech**
-* ⚡ Fun fact: *I enjoy turning coffee into code.*
+I enjoy exploring artificial intelligence, cybersecurity, data-driven solutions, and modern web technologies. I believe the best way to learn is by building projects, experimenting with new ideas, and continuously improving my skills.
+
+* 🎓 Studying **Data Science, Protection & Security**
+* 🌱 Currently learning **Machine Learning, Cloud Technologies & Cybersecurity**
+* 💡 Interested in **AI, Security, Data Science, and Full-Stack Development**
+* 🚀 Building personal projects and expanding my technical skills
+* 🤝 Always open to learning and collaborating on interesting projects
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E76F00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 
-### Frontend
+### Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+React • Next.js • Node.js • Express • PostgreSQL • MySQL • Docker • Git • Linux • Figma
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-
-### Tools
-
-* Git & GitHub
-* Docker
-* VS Code
-* Linux
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elfrnx&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrnx&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elfrnx&theme=tokyonight&hide_border=true"/>
+</p>
 
-⭐ Thanks for visiting my profile! If you like my work, consider starring one of my repositories.
+---
+
+## 🚀 Current Focus
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🔐 Cybersecurity & Digital Protection
+* 📊 Data Science
+* 🌐 Modern Web Development
+* ☁️ Cloud Technologies
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/elifchakar
+
+---
+
+> *"Curiosity drives learning. Building creates experience."*
