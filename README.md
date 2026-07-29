@@ -21,15 +21,15 @@ I'm a Data Science, Protection & Security student passionate about building tech
 
 I enjoy exploring artificial intelligence, cybersecurity, data-driven solutions, and modern web technologies. I believe the best way to learn is by building projects, experimenting with new ideas, and continuously improving my skills.
 
-* 🎓 Studying **Data Science, Protection & Security**
-* 🌱 Currently learning **Machine Learning, Cloud Technologies & Cybersecurity**
-* 💡 Interested in **AI, Security, Data Science, and Full-Stack Development**
-* 🚀 Building personal projects and expanding my technical skills
-* 🤝 Always open to learning and collaborating on interesting projects
+*  Studying **Data Science, Protection & Security**
+*  Currently learning **Machine Learning, Cloud Technologies & Cybersecurity**
+*  Interested in **AI, Security, Data Science, and Full-Stack Development**
+*  Building personal projects and expanding my technical skills
+*  Always open to learning and collaborating on interesting projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 ### Languages
 
@@ -44,13 +44,13 @@ React • Next.js • Node.js • Express • PostgreSQL • MySQL • Docker �
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🔐 Cybersecurity & Digital Protection
-* 📊 Data Science
-* 🌐 Modern Web Development
-* ☁️ Cloud Technologies
+* Artificial Intelligence & Machine Learning
+* Cybersecurity & Digital Protection
+* Data Science
+*  Modern Web Development
+*  Cloud Technologies
 
 ---
 
