@@ -44,20 +44,6 @@ React • Next.js • Node.js • Express • PostgreSQL • MySQL • Docker �
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elfrnx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrnx&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elfrnx&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🚀 Current Focus
 
 * 🤖 Artificial Intelligence & Machine Learning
@@ -65,12 +51,6 @@ React • Next.js • Node.js • Express • PostgreSQL • MySQL • Docker �
 * 📊 Data Science
 * 🌐 Modern Web Development
 * ☁️ Cloud Technologies
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/elifchakar
 
 ---
 
