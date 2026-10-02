@@ -3,7 +3,7 @@
 ```javascript
 const elif = {
   location: "Belgium 🇧🇪",
-  education: "BSc in Data Science, Protection & Security",
+  education: "Cybersecurity",
   interests: [
     "Artificial Intelligence",
     "Cybersecurity",
