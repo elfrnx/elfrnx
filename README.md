@@ -17,8 +17,6 @@ const elif = {
 
 ## 👩‍💻 About Me
 
-I'm a Data Science, Protection & Security student passionate about building technology that is both useful and secure.
-
 I enjoy exploring artificial intelligence, cybersecurity, data-driven solutions, and modern web technologies. I believe the best way to learn is by building projects, experimenting with new ideas, and continuously improving my skills.
 
 *  Studying **Data Science, Protection & Security**
